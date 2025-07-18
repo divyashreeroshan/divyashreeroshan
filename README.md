@@ -1,4 +1,4 @@
-# divyashreroshan
+
 # 💫 About Me:
 Hi there, I'm Divyashree!<br>Final year Engineering student | 💡 Passionate about AI, ML & LLMs | 🔬 Exploring RAG & Semantic Search | 💻 Building real-world projects<br>⭐️ Feel free to explore my repos, raise issues, or suggest collaborations. Let’s build something awesome together!
 
@@ -16,6 +16,6 @@ Hi there, I'm Divyashree!<br>Final year Engineering student | 💡 Passionate ab
 ---
 [![](https://visitcount.itsvg.in/api?id=divyashreeroshan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Add initial GitHub profile README
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
